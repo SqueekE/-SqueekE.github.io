@@ -1,11 +1,15 @@
-#sec-1 {
+* {
+    box-sizing: border-box;
+}
+
+.sec-1 {
     background-color: rgb(250, 0, 0, 0.4);
 }
 
-#sec-2 {
-    background-color: rgb(0, 4, 233, 0.4);
+.sec-2 {
+    background: rgb(0, 4, 233, 0.4);
 }
 
-#sec-3 {
+.sec-3 {
     background-color: rgb(252, 235, 4, 0.4);
 }
